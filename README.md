@@ -1,3 +1,5 @@
+![Tests](https://github.com/yourusername/AdvancedNumber/actions/workflows/python-tests.yml/badge.svg)
+
 # AdvancedNumber
 
 A Python class that extends the functionality of numeric types with additional operations and features.
