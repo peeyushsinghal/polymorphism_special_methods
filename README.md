@@ -35,6 +35,7 @@ product = num1 2 # AdvancedNumber(20)
 quotient = num1 / num2 # AdvancedNumber(2.0)
 remainder = num1 % num2 # AdvancedNumber(0)
 ```
+
 ### Comparison Operations
 
 ```python
@@ -45,7 +46,7 @@ num2 < num1 # True
 num1 >= num2 # True
 num2 <= num1 # True
 num1 == num2 # False
-
+```
 
 ### Set Operations
 
